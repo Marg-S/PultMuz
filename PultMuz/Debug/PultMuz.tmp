@@ -1,0 +1,95 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATtiny2313A"</DEVICE>
+ <WORKING_DIR>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.3.147\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.3.147\avrasm\inc\tn2313adef.inc</FILE>
+  <FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\LCD4_macro.inc</FILE>
+  <FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\LCD4.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\Debug\PultMuz.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>PultMuz.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>PultMuz.map</FILE>
+  <FILE>PultMuz.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <LastI><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>48</LINE></LastI>
+  <NewI><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>49</LINE></NewI>
+  <start><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>56</LINE></start>
+  <init><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>80</LINE></init>
+  <prer1><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>519</LINE></prer1>
+  <wait><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>338</LINE></wait>
+  <CMD_WR><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\LCD4.asm</FILE><LINE>52</LINE></CMD_WR>
+  <newCharRus><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>389</LINE></newCharRus>
+  <str1><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>536</LINE></str1>
+  <printString><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>464</LINE></printString>
+  <str2><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>538</LINE></str2>
+  <main><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>135</LINE></main>
+  <handle><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>143</LINE></handle>
+  <signal><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>225</LINE></signal>
+  <muz><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>246</LINE></muz>
+  <h_exit><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>219</LINE></h_exit>
+  <h1><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>159</LINE></h1>
+  <h_save><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>216</LINE></h_save>
+  <h2><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>162</LINE></h2>
+  <h3><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>171</LINE></h3>
+  <h4><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>178</LINE></h4>
+  <h_recv><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>192</LINE></h_recv>
+  <h_idle><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>181</LINE></h_idle>
+  <h_clr><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>213</LINE></h_clr>
+  <h_byte><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>200</LINE></h_byte>
+  <h_0><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>205</LINE></h_0>
+  <h_end><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>207</LINE></h_end>
+  <s_exit><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>242</LINE></s_exit>
+  <printCod><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>474</LINE></printCod>
+  <m_exit><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>284</LINE></m_exit>
+  <tabm><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>553</LINE></tabm>
+  <addw><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>289</LINE></addw>
+  <m_1><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>263</LINE></m_1>
+  <m_2><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>266</LINE></m_2>
+  <nota><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>299</LINE></nota>
+  <nt1><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>321</LINE></nt1>
+  <tabkd><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>546</LINE></tabkd>
+  <tabz><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>542</LINE></tabz>
+  <w0><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>351</LINE></w0>
+  <w1><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>354</LINE></w1>
+  <w2><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>355</LINE></w2>
+  <w_1><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>366</LINE></w_1>
+  <w_2><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>370</LINE></w_2>
+  <w3><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>379</LINE></w3>
+  <BusyWait><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\LCD4.asm</FILE><LINE>22</LINE></BusyWait>
+  <PortIn><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\LCD4.asm</FILE><LINE>101</LINE></PortIn>
+  <BusyLoop><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\LCD4.asm</FILE><LINE>28</LINE></BusyLoop>
+  <LCD_Delay><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\LCD4.asm</FILE><LINE>119</LINE></LCD_Delay>
+  <BusyNo><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\LCD4.asm</FILE><LINE>47</LINE></BusyNo>
+  <WR_END><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\LCD4.asm</FILE><LINE>64</LINE></WR_END>
+  <DATA_WR><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\LCD4.asm</FILE><LINE>60</LINE></DATA_WR>
+  <PortOut><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\LCD4.asm</FILE><LINE>112</LINE></PortOut>
+  <L_loop><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\LCD4.asm</FILE><LINE>120</LINE></L_loop>
+  <ps_1><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>465</LINE></ps_1>
+  <ps_exit><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>470</LINE></ps_exit>
+  <printValue><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>492</LINE></printValue>
+  <s1><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>494</LINE></s1>
+  <s2><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>501</LINE></s2>
+  <s3><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>509</LINE></s3>
+  <mel1><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>560</LINE></mel1>
+  <mel2><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>569</LINE></mel2>
+  <mel3><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>582</LINE></mel3>
+  <mel4><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>588</LINE></mel4>
+  <mel5><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>593</LINE></mel5>
+  <mel6><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>603</LINE></mel6>
+  <mel7><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>616</LINE></mel7>
+  <mel8><FILE>C:\Users\ritan\Documents\Atmel Studio\7.0\PultMuz\PultMuz\main.asm</FILE><LINE>632</LINE></mel8>
+ </LABELS>
+</ASSEMBLER_INFO>
